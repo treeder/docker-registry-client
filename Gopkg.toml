@@ -50,11 +50,6 @@
 # source = "https://github.com/myfork/package.git"
 
 
-
-[[dependencies]]
-  name = "github.com/moby/moby/distribution"
-  version = "master"
-
 [[dependencies]]
   name = "github.com/opencontainers/go-digest"
   version = "v1.0.0-rc0"
