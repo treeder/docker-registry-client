@@ -52,9 +52,9 @@
 
 
 [[dependencies]]
-  name = "github.com/docker/distribution"
-  version = "^2.6.1"
+  name = "github.com/moby/moby/distribution"
+  version = "master"
 
 [[dependencies]]
   name = "github.com/opencontainers/go-digest"
-  version = "^1.0.0-rc0"
+  version = "v1.0.0-rc0"

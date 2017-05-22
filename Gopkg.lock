@@ -1,4 +1,4 @@
-memo = "9593beb660822c30b09fc19efea4ff709db4d732126e9c6b860b2c8bc6171973"
+memo = "93aa2242fc18cfa6741a83de44cedb11883788eb94f065d396b3419350e79cf5"
 
 [[projects]]
   name = "github.com/Sirupsen/logrus"
@@ -8,7 +8,7 @@ memo = "9593beb660822c30b09fc19efea4ff709db4d732126e9c6b860b2c8bc6171973"
 
 [[projects]]
   name = "github.com/docker/distribution"
-  packages = [".","context","digest","manifest","manifest/schema1","manifest/schema2","reference","uuid"]
+  packages = [".","context","digest","manifest","manifest/schema1","reference","uuid"]
   revision = "a25b9ef0c9fe242ac04bb20d3a028442b7d266b6"
   version = "v2.6.1"
 
